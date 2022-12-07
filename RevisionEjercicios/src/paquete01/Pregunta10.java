@@ -28,6 +28,6 @@ public class Pregunta10 {
         
         System.out.println(n);
         
-    }
+    }    
     
 }

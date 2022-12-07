@@ -27,6 +27,10 @@ public class Ejemplo012 {
         for (int i = 0; i < 10; i += 3) {
             System.out.printf("%d\n", i);
         }
+        System.out.println("Ciclo con incremento de 2 en 2 del 20 al 30");
+        for (int i = 20; i <= 30; i +=2) {
+            System.out.printf("%d\n", i);
+        }
         
         
     }
